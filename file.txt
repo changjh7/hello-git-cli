@@ -3,3 +3,4 @@
 간단하게 hello git이라고 쓴 내용 commit
 
 second
+third to my branch
