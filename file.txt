@@ -5,4 +5,8 @@
 second
 third to my branch
 forth -my branch 
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 cnrk
+>>>>>>> ff81b73 (개발 기능 1 추가)
